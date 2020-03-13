@@ -10,7 +10,10 @@ LogMessage1
     
 LogMessage2
     [Tags]    Regression
-    Log    Hallo this is regression    
+    Log    Hallo this is regression
+    
+LoginMessage3
+    Log    git check    
     
 Logintest
     Open Browser    ${URL1}    chrome
